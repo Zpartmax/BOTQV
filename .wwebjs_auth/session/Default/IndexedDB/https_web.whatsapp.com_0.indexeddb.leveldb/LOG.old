@@ -1,0 +1,31 @@
+2025/03/31-14:01:39.768 7d73c Reusing MANIFEST C:\Users\laloe\Downloads\QV\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/31-14:01:39.770 7d73c Recovering log #71
+2025/03/31-14:01:40.344 7d73c Reusing old log C:\Users\laloe\Downloads\QV\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000071.log 
+2025/03/31-14:01:43.094 7e3b8 Level-0 table #76: started
+2025/03/31-14:01:43.170 7e3b8 Level-0 table #76: 1093867 bytes OK
+2025/03/31-14:01:43.189 7e3b8 Delete type=0 #71
+2025/03/31-14:01:43.191 7e3b8 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/31-14:01:43.206 7d73c Level-0 table #78: started
+2025/03/31-14:01:43.286 7d73c Level-0 table #78: 455 bytes OK
+2025/03/31-14:01:43.289 7d73c Delete type=0 #75
+2025/03/31-14:01:43.292 7d73c Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 192852 : 0
+2025/03/31-14:01:43.292 7d73c Compacting 1@0 + 1@1 files
+2025/03/31-14:01:43.377 7d73c Generated table #79@0: 20374 keys, 422214 bytes
+2025/03/31-14:01:43.377 7d73c Compacted 1@0 + 1@1 files => 422214 bytes
+2025/03/31-14:01:43.387 7d73c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/31-14:01:43.388 7d73c Delete type=2 #78
+2025/03/31-14:01:43.388 7d73c Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 192852 : 0 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/31-14:01:47.297 7e3b8 Compacting 1@1 + 1@2 files
+2025/03/31-14:01:47.465 7e3b8 Generated table #80@1: 48263 keys, 1594305 bytes
+2025/03/31-14:01:47.465 7e3b8 Compacted 1@1 + 1@2 files => 1594305 bytes
+2025/03/31-14:01:47.466 7e3b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/31-14:01:47.466 7e3b8 Delete type=2 #73
+2025/03/31-14:01:47.466 7e3b8 Delete type=2 #76
+2025/03/31-14:01:47.466 7e3b8 Delete type=2 #79
+2025/03/31-14:06:13.440 7dcf4 Level-0 table #82: started
+2025/03/31-14:06:13.544 7dcf4 Level-0 table #82: 1394995 bytes OK
+2025/03/31-14:06:13.547 7dcf4 Delete type=0 #77
+2025/03/31-14:06:13.638 7f0f4 Compacting 1@1 + 1@2 files
+2025/03/31-14:06:13.855 7f0f4 Generated table #83@1: 60498 keys, 1995228 bytes
+2025/03/31-14:06:13.855 7f0f4 Compacted 1@1 + 1@2 files => 1995228 bytes
+2025/03/31-14:06:13.855 7f0f4 compacted to: files[ 0 0 1 0 0 0 0 ]
