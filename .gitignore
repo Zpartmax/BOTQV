@@ -1,1 +1,6 @@
-a
+# .gitignore
+node_modules/
+.env
+.DS_Store
+.wwebjs.auth/
+.wwebjs_cache/
